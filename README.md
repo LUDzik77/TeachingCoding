@@ -2,4 +2,4 @@
 
 I am teaching polish kids how to code :)
 
-![GitHub Logo](Teaching.png)
+![GitHub Logo](Teaching_.png)
